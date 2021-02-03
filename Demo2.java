@@ -4,4 +4,5 @@ class Demo2{
 		System.out.println("Java Demo class2");
 
 	}
+}
 
